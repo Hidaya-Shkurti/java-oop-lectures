@@ -1,10 +1,3 @@
-/*
- * Week 1 - Why objects
- *
- * Notice where the sentences are. Every word the user reads is written
- * here. Account never prints anything; it answers, and this class decides
- * what to say about the answer.
- */
 public class BankApp {
 
     public static void main(String[] args) {
